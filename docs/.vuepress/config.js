@@ -1,7 +1,7 @@
 module.exports = {
     title: '网课学习',  // 设置网站标题
     description : 'Adroi',
-    base : '/nlxstudy/',  // 这是部署到github相关的配置
+    base : '/nlxstudy/docs/',  // 这是部署到github相关的配置
     // dest: './dist',    // 设置输出目录
     markdown: {
         lineNumbers: false // 代码块显示行号
