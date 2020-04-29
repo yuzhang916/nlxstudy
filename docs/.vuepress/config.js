@@ -15,21 +15,21 @@ module.exports = {
           '/' : [
             {
                 title: '语文',   // 必要的
-                path: '../chinese/',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
+                path: '../chinese.md',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: []
             },
             {
                 title: '数学',   // 必要的
-                path: '../math/',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
+                path: '../math.md',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: []
             },
             {
                 title: '英语',   // 必要的
-                path: '../english/',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
+                path: '../english.md',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: []
