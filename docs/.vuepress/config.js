@@ -9,7 +9,7 @@ module.exports = {
     themeConfig : {
       nav : [  // 导航栏配置
           { text: '主页', link: '/' },
-          { text: '空中课堂', link: 'http://zxkt.welaiedu.cn/#/zplay', target:'_blank' },
+          { text: '空中课堂地址', link: 'http://zxkt.welaiedu.cn/#/zplay', target:'_blank' },
       ],
       sidebar: {
           '/' : [
